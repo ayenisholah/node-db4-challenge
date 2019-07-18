@@ -1,0 +1,22 @@
+{
+  "name": "node-db4-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "server": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "expressjs-router": "^2.0.1",
+    "knex": "^0.19.0",
+    "knex-cleaner": "^1.2.1",
+    "sqlite3": "^4.0.9"
+  },
+  "devDependencies": {
+    "eslint": "^6.0.1",
+    "nodemon": "^1.19.1"
+  }
+}
